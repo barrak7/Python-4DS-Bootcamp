@@ -1,5 +1,6 @@
 # Python-4DS-Bootcamp
-is a Python For Data Science Bootcamp organized by [1337AI club](https://ma.linkedin.com/company/1337ai) at [UM6P](https://um6p.ma/). <br>
+
+*Python For Data Science Bootcamp* organized by [1337AI club](https://ma.linkedin.com/company/1337ai) at [UM6P](https://um6p.ma/). <br>
 It is a contribution to the UM6P community and an effort by the club to establish a thriving AI community at our beloved university.
 
 The Bootcamp is based on the peer to peer and learning by doing pedagogies. The idea was inspired from our school's, [1337FIL](https://1337.ma/en/) & [42 Network](https://www.42network.org/), pedagogy.
@@ -31,9 +32,7 @@ In this week we will learn how to work with datatables, mainly with pandas frame
 ### Week 4 & 5: OOP & Dod
 For those who would like to, these are a great introduction to Object oriented programming and Data oriented design.
 
-
 **Important:** We didn't provide any study materials with the subjects because the research phase of doing a project is a very crucial part of the 42 pedagogy.<br>
 Also note that this project can be finished in less than a week, however, since we only dedicate a few hourse each weekend, and since many participants have no prior knowledge of programming, it will take us a bit longer.
-
 
 Upon completion, pariticpants will recieve a Certificate of Completion.
