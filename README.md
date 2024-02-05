@@ -7,4 +7,9 @@ The Bootcamp is based on the peer to peer and learning by doing pedagogies. The 
 This learning methodolgy is pretty simple (yet very effective): You are given projects or exercises. You can use the internet to figure out how to get them done.
 If something is difficult for you, you can ask your peers for help. You also discuss your findings and results once you are done.
 
+# Getting started
+## Resources
+In the subjects folder, there are 5 PDFs with exercises starting gradually from basic concepts and ending with advanced ones. <br>
+Our focus during this bootcamp will be on the first 3 subjects. <br>
+Given that most participants have no prior knowledge of programming, and considering the time constraints, we will also be skipping some exercises as we see fit.
 
