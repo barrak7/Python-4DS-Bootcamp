@@ -13,3 +13,8 @@ In the subjects folder, there are 5 PDFs with exercises starting gradually from 
 Our focus during this bootcamp will be on the first 3 subjects. <br>
 Given that most participants have no prior knowledge of programming, and considering the time constraints, we will also be skipping some exercises as we see fit.
 
+*Note:* Since python is a high level language, we want to make sure that participant do not waste too much time learning the mundnae basics. <br>
+Instead, we would like them to use the language features that make it pretty easy compared to other lower level programming languages like C.
+
+## Timeline
+### Week 1
