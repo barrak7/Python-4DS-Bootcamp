@@ -12,7 +12,7 @@ If something is difficult for you, you can ask your peers for help. You also dis
 
 # Getting started
 ## Resources
-In the subjects folder, there are 5 PDFs with exercises starting gradually from basic concepts and ending with advanced ones. For some subjects, you may find folders with some other required resources.<br>
+In the subjects folder, there are 5 PDFs with exercises starting, gradually, from basic concepts and ending with advanced ones. For some subjects, you may find folders with some other required resources.<br>
 Our focus during this bootcamp will be on the first 3 subjects. <br>
 Given that most participants have no prior knowledge of programming, and considering the time constraints, we will also be skipping some exercises as we see fit.
 
