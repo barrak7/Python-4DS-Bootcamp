@@ -5,7 +5,7 @@ It is a contribution to the UM6P community and an effort by the club to establis
 
 The Bootcamp is based on the peer to peer and learning by doing pedagogies. The idea was inspired from our school's, [1337FIL](https://1337.ma/en/) & [42 Network](https://www.42network.org/), pedagogy.
 
-This learning methodolgy is pretty simple (yet very effective): You are given projects or exercises. You can use the internet to figure out how to get them done.
+This learning methodology is pretty simple (yet very effective): You are given projects or exercises. You can use the internet to figure out how to get them done.
 If something is difficult for you, you can ask your peers for help. You also discuss your findings and results once you are done.
 
 **Note:** This will serve as a guide to, both, in person and remote, participants.
@@ -16,12 +16,12 @@ In the subjects folder, there are 5 PDFs with exercises starting, gradually, fro
 Our focus during this bootcamp will be on the first 3 subjects. <br>
 Given that most participants have no prior knowledge of programming, and considering the time constraints, we will also be skipping some exercises as we see fit.
 
-**Note:** Since python is a high level language, we want to make sure that participant do not waste too much time learning the mundnae basics.
+**Note:** Since python is a high level language, we want to make sure that participant do not waste too much time learning the mundane basics.
 Instead, we would like them to use the language features that make it pretty easy compared to other lower level programming languages like C.
 
 ## Timeline
 ### Week 1: 0 - Starting:
-In the first week, participants will get familiar with the basics of python / programming, such as: data types, oprators, functions and programs in python.
+In the first week, participants will get familiar with the basics of python / programming, such as: data types, operators, functions and programs in python.
 
 ### Week 2: 1 - Array:
 In this week, we will get introduced to array manipulation with numpy. We will see some really fun examples of working with images as arrays. We will also have some fun by applying coding some basic image filters.
@@ -33,6 +33,6 @@ In this week we will learn how to work with datatables, mainly with pandas frame
 For those who would like to, these are a great introduction to Object oriented programming and Data oriented design.
 
 **Important:** We didn't provide any study materials with the subjects because the research phase of doing a project is a very crucial part of the 42 pedagogy.<br>
-Also note that this project can be finished in less than a week, however, since we only dedicate a few hourse each weekend, and since many participants have no prior knowledge of programming, it will take us a bit longer.
+Also note that this project can be finished in less than a week, however, since we only dedicate a few hours each weekend, and since many participants have no prior knowledge of programming, it will take us a bit longer.
 
-Upon completion, pariticpants will recieve a Certificate of Completion.
+Upon completion, participants will receive a Certificate of Completion.
