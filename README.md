@@ -24,7 +24,7 @@ Instead, we would like them to use the language features that make it pretty eas
 In the first week, participants will get familiar with the basics of python / programming, such as: data types, operators, functions and programs in python.
 
 ### Week 2: 1 - Array:
-In this week, we will get introduced to array manipulation with numpy. We will see some really fun examples of working with images as arrays. We will also have some fun by applying coding some basic image filters.
+In this week, we will get introduced to array manipulation with numpy. We will see some really fun examples of working with images as arrays. We will also have some fun by coding some basic image filters.
 
 ### Week 3: 2 - DataTable:
 In this week we will learn how to work with datatables, mainly with pandas framework. We will also do some basic plotting with Matplotlib.
